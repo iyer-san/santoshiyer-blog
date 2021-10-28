@@ -6,5 +6,5 @@ https://jekyllrb.com/docs/step-by-step/10-deployment/
 ## Next steps
 - Better styling
 - determine blog site stucture
-- clean up demo, add a blog post
+- add a blog post
 - deploy using Netlify https://jekyllrb.com/docs/step-by-step/10-deployment/
